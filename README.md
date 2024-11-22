@@ -1,4 +1,4 @@
-#AnilKumar_liftu.tech_Assignment
+AnilKumar_liftu.tech_Assignment
 This repository contains a comprehensive Automation Testing Framework designed for web applications using Java and Selenium WebDriver. The framework is built to be highly modular, scalable, and maintainable. It incorporates advanced features such as detailed reporting with Extent Reports and TestNG integration for efficient test execution and management.
 ________________________________________
 Key Features
